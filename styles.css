@@ -1,0 +1,18 @@
+body {
+    width: 60%;
+    height: 80vh;
+    margin: auto;
+    background-color: #1b1b32;
+    color: #f5f6f7;
+    text-align: center;
+}
+
+a {
+    color: aqua;
+}
+
+#pfp {
+    border-radius: 50%;
+    height: 200px;
+    
+}
